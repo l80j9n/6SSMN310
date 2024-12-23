@@ -1,42 +1,59 @@
 java c
-6SSMN310 –   Entrepreneurial   Family   Firms
-Assessment 2 –   Individual Coursework
-(75% of total module grade)
-The Task
-In this assignment, you will   have the   unique opportunity to engage with the   Family   Business Simulation:   Honey   Heritage twice during the term. Your task   involves   playing through the simulation at   both the   beginning and end of the course. While   participating, it's   important to   approach the   decisions   as   if you   were   running a   real family   business, emphasizing authenticity over what   may seem   "correct." This   experiential   learning exercise will allow you to   navigate the complexities of multi-generational   family businesses and observe   how your choices evolve as you   progress through the course. Through   self-reflection, you will gain valuable   insights into family,   business, and ownership dynamics,   enhancing your   understanding of this intricate field.
-Period to take the simulation for the first time: 22 January to 5   February (extended from January   29).
-Note:   Use this   handout to   record and justify your decisions. You will submit this   handout with the   individual   coursework on April   19   (as an appendix).
-Period to take the simulation for the second time:   18   March to   15 April.
-Module   Learning Outcomes Assessed
-1.          Analyse family firms   based on their constituting elements,   including the family, the   business   in the   marketplace, ownership,   management and governance.
-2.          Apply theories from   psychology, sociology, economics and strategy to   key   questions   in family firms.
-3.          Identify and explain the critical   role   of   entrepreneurship   in the   founding   of family   firms   and   innovation in their sustainability.
-4.          Critically evaluate succession   processes and connect them to   different types   of family-business-   interactions.
-Assignment   Details and Structure:   Family Business Simulation Self-Reflection
-I.   Introduction (around 300 words)
-•          Provide   an overview   of the   assignment's   objectives   and   the   importance   of   self-reflection   in   understanding family   business dynamics.
-•          Briefly   describe   and compare   your   overall   experiences   during   the   first   and   the   second   round   of the   Honey   Heritage simulation.
-•            Briefly describe the structure of   the essay.
-II. Analysis of simulation decisions (around 1200-1400 words)
-•          Describe   and compare   your   decisions   during   the   first   and   the代 写6SSMN310 – Entrepreneurial Family Firms Assessment 2C/C++
-代做程序编程语言   second   round   of the   Honey   Heritage   simulation,   reflecting on   how stakeholders' opinions and family   members'   perspectives shaped your decisions throughout the simulation.
-•          Apply a minimum of   2   theoretical   frameworks   studied   in the   module   to   discuss   any   changes   or   adjustments you   made   in your decision-making. Where decisions   have   not   been changed or   adjusted, explain   how these theoretical frameworks   helped you   understand and interpret your   simulation experience.
-•          Incorporate   relevant   insights from guest   lectures,   experiences from   outside the   classroom,   or   use   examples of family firms studied in class and   beyond   (e.g., your   own family firm) to   complement explanations of your decisions.
-This   middle   part of the essay can   be structured in   several   different   ways,   e.g.,   by first   and   second   round   of   taking the simulation;   by generation;   by   key decisions, etc. You do   not   need to coverall the   simulation   decisions—feel free to concentrate on the   most significant decisions, or the   decisions that   had   most   significant shifts from the first to the second   round.
-III. Conclusion (around 300-500 words)
-•          Summarize the   main   lessons and   insights gained from the   simulation   and the   self-reflection   process.
-•          Highlight   any   challenges   or   dilemmas you   encountered   across the family,   business,   and   ownership   dimensions, and   how you addressed them.
-•          Reflect   on   how this   experience   has   prepared you for future   roles   or   challenges   in   family-run   businesses.
-IV.   References
-Cite any   references or course   materials   used in yourself-reflection (Harvard   style).
-V. Appendix (if   needed)Include any additional information, charts, or diagrams   that   support   yourself-reflection,   such   as   decision   trees or stakeholder feedback summaries, as well as the   handout where you   recorded your   decisions for      the first time you took the simulation.
-General Submission   Requirements
-Assessment submission instructions:
-•          The 2,000-word limit applies to the   main body   of the text (text, footnotes and   diagrams).   References   and appendices are   not   included. The word count   must   be   noted on the front   of the work.
-•          File   saved   as   [ModuleCode_CandidateNumber].
-•            File format for submission (.pdf /   .docx).
-
-
+6SSMN310 – Entrepreneurial Family Firms 
+Assessment 1 – Groupwork 
+(25% of total module grade)
+The Task In this groupwork, you will develop a   pitch deck   describing a   social   intrapreneurial   opportunity for   a   family   firm of your choice. A social intrapreneurial opportunity   represents the   potential to   introduce   an   innovative   social   initiative   (focused on social and/or environmental value creation) within   an   established   organization.
+Group Composition and   Documentation: 4-5 students, allocated   by   module team, and   based on tutorial groups. Once groups are formed, you are required to complete a Group Learning Agreement and submit it via KEATS by February 16. When you submit your pitch deck, you are also required to submit a Group Work Log and Peer Evaluation document, as well as an Individual Evaluation document via KEATS. 
+Choosing a family firm:    You are welcome to act as “consultants” for the   family   firm   of   a   group   member   (if   all   members agree), or a family firm you   have access to.   You   can   choose   a   family   firm   of   any   size   (examples   of   large family firms can   be found in the Global Family Business Index).   Each   group   in   each tutorial   class
+should work with a different family firm   (for example, we   cannot   have   two   groups   in   the   same   class   working with   LVMH).
+Module Learning Outcomes Assessed 
+2.         Apply   theories   from   psychology,   sociology,   economics   and   strategy   to   key   questions   in
+family   firms.
+3.          Identify   and   explain   the   critical   role   of   entrepreneurship   in   the   founding   of   family   firms   and
+innovation   in   their   sustainability.
+Assignment Details and Structure 
+Pitch   Deck Structure (1o-12 slides + references slides and   PAIR framework   appendices)
+Introduction (2-3 slides)
+.             Introduction to the selected family firm (e.g.,   history,   core values,   current   market   position).
+.             Brief overview of current social value   creation   approach,   with   emphasis   on   challenges/gaps.
+Problem description and relevance to family firm (3 slides)
+.             Brief explanation of a specific   social/environmental   problem,   need,   or   injustice.
+.             Evidence of   unmet demand,   market failure,   or   insufficient   provision for the   identified   issue.
+.             Explanation of why the   issue   presents an   opportunity   relevant to the   family firm,   applying   theory.
+Entrepreneurial solution (around   4-5 slides)
+.             Description of the solution to address   the   identified   issue   within   the   family   firm.
+.             Explanation of   how the solution creates   social   and/or   environmental value.
+.             Assessment of the solution’s alignment with the family firm’s   motives and   goals,   applying   theory.
+.             Examination of the   resources   required for the   initiative   (financial,   human, etc.),   and   discussion of   the family firm’s capacity to   mobilize and allocate   required   resources,   applying theory.
+Conclusion (1 slide)
+.             Recap of the   initiative’s significance to the family   firm   and   potential   impact   on   positive   social   change.
+References (Harvard style)
+.        代 写6SSMN310 – Entrepreneurial Family Firms Assessment 1Haskell
+代做程序编程语言     Citations of all   materials   used for   research of selected family firm.
+.             Citations of   relevant academic   references   used to support theory application.
+PAIR framework appendices (see below)
+.             Appendix   1: AI tool selection and justification table.
+.             Appendix 2: Table detailing the specific AI tools you   used and   how they   influenced   your   report.
+.             Appendix 3:   Brief   reflection (3oo words   max.) on   lessons   learned   interacting with AI tools.
+Use of AI: PAIR framework 
+In this group assignment, we will   integrate the   PAIR   (Problem AI   Interaction   Reflection) framework:
+1.   Problem   Formulation   |   Before engaging with AI:   Identify a   family firm for which you will   propose a
+social   intrapreneurial   initiative. Conduct   research to   better   understand the family firm's   history, values,
+market   position, and the current approach to social value   creation.   Based   on this   research,   clearly   delineate   gaps or challenges   in social value creation.   Identify a   social   or   environmental   issue   for   your   proposal.
+Conduct secondary   research to   better   understand the   issue. Consider different angles of the   problem   and   understand   its scope and   relevance to the family firm.
+2. AITool Selection   |   For   Research and Solution   Development:   Research AI tools   relevant to
+entrepreneurship and your specific objectives.   Evaluate and select   the   most   suitable   AI   tools   for your
+problem, considering their features, functions,   potential   benefits, and   limitations. Tools   like ChatGPT,
+Google   Bard, or Claude   2 can   provide   insights, generate   ideas, or   even   help   structure the   pitch   deck.   Record   your findings   in a table, documenting the tools you’ve explored and   chosen   or   discarded,   accompanied   by   brief   justifications for your choices   (Appendix 1   for submission).
+3.   Interaction   |   During the   Development of Entrepreneurial Solutions:   Engage with your chosen AI tools   to   refine your solutions and articulate the   potential impact   on the family   firm. This   involves   experimenting   with different   inputs and critically evaluating the outputs.   Use AI   tools for   brainstorming,   refining   ideas,   and   assessing the feasibility of   proposed solutions.   Maintain a   record of your   interactions with AI,   noting successful   prompts and areas where AI   may   have   limitations or   biases   (Appendix 2   for submission).
+4.   Reflection   |   Post-Assignment: Compose a short   reflective   report   (3oo words   max.)   in which you   ponder      over the   lessons   learned from your   problem-solving   process with the AI tools,   how you can improve your   skills and future application of AI in   entrepreneurship,   and your feelings   while   using   these   tools   (Appendix 3   for submission).
+Check the   PAIR student   handout as well on   KEATS.
+General Submission Requirements 
+Assessment submission   instructions:
+.             File saved as   [ModuleCode_GroupNumber_FirmName].
+.             File format for submission   (.pdf).
+.             Group Work   Log and   Peer   Evaluation.
+.             Individual   Evaluation.
 
 
 
